@@ -5,7 +5,7 @@
 **Description**: A neural network pipeline for reconstructing CT images from sinogram projections using a custom L2+gradient loss and hybrid architecture. Trained on paired sinogram-image data for improved image quality.
 
 ## Setup
-1. Clone: `git clone https://github.com/yourusername/ct-reconstruction-dl.git`
+1. Clone: `git clone https://github.com//DLakshanMadushnka/ct-reconstruction-dl.git`
 2. Install: `pip install -r requirements.txt`
 3. Place data (.npy files) in `data/` and update `config.py`.
 4. Run: `python main.py`
